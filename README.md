@@ -1,4 +1,5 @@
 # nodeShoraa
+[COSC 513] Part I - A web application that tracks and compares cryptocurrency and stock prices.
 
 ![](https://github.com/FehintolaObafemi/nodeshoraa/workflows/CI/badge.svg)
 
